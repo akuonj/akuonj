@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Joshua Otieno.
-- 👀 I’m interested in application development.
-- 🌱 I’m currently learning android application development.
-- 💞️ I’m looking to collaborate on and application development projects.
-- 📫 How to reach me; contact: 0745699842
+👋 Hi, I’m Joshua Otieno.
+
+👨‍💻 Experienced Android app developer and seasoned system administrator.
+
+🌱 Always learning and exploring new technologies.
+
+💼 Open to exciting opportunities in application development and system administration.
+
+📫 How to reach me:
+   - Contact: 0745699842
