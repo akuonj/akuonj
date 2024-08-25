@@ -7,4 +7,4 @@
 💼 Open to exciting opportunities in application development and system administration.
 
 📫 How to reach me:
-   - Contact: 0745699842
+   - Contact: 0745699842 / 0741435350
