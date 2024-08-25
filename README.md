@@ -8,3 +8,4 @@
 
 📫 How to reach me:
    - Contact: 0745699842 / 0741435350
+   - Email: akuonjunior@gmail.com
